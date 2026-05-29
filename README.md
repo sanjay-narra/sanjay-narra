@@ -3,8 +3,9 @@
 ---
 
 ## 🌐 Links
-- 🔗 GitHub: https://github.com/Sanjay284-beep  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sanjaynarra  
+
+- 🔗 GitHub: https://github.com/Sanjay284-beep
+- 🔗 LinkedIn: https://www.linkedin.com/in/sanjaynarra
 - 📧 Email: narrasanjay7@gmail.com
 
 ---
@@ -23,8 +24,9 @@
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 
 ### Backend & Database
+![Django](https://img.shields.io/badge/Django-green?logo=django)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?logo=sqlite)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
@@ -36,6 +38,6 @@
 
 ## 📊 GitHub Stats
 
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay284-beep&show_icons=true&hide_border=true)
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay284-beep&show_icons=true&hide_border=true&theme=dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay284-beep&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay284-beep&layout=compact&theme=dark&cache_seconds=1800)
