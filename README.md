@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year CSE student graduating in **2026**
+- 🎓 CSE graduate **2026**
 - 💻 I build **full-stack Django apps** and **machine learning pipelines**
 - 🌐 Deployed projects live on the internet — not just localhost
 - 🤖 Exploring ML model comparison, REST APIs, and data visualization
